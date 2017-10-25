@@ -1,0 +1,44 @@
+.header {
+    display: block;
+    height: 100px;
+    width: 800px;
+}
+
+.left-container {
+    display: inline-block;
+    height: 900px;
+    width: 400px;
+    border-style: solid;
+    overflow: scroll;
+}
+
+.right-container {
+    display: inline-block;
+    height: 900px;
+    width: 400px;
+    margin-left: 200px
+
+}
+
+.favorite-quotes {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    overflow: scroll;
+
+}
+
+.favorite-container {
+    width: 300px;
+    border-style: solid;
+    margin: 5px 0px 0px 10px;
+    padding: 5px 0px 0px 5px
+}
+
+
+.quote-container {
+    width: 300px;
+    border-style: solid;
+    margin: 5px 0px 0px 10px;
+    padding: 5px 0px 0px 5px
+}
